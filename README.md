@@ -1,4 +1,4 @@
 # Chuck-Norris-API
-//part of a weekly API practice series for myself.
+//part of a weekly API brain warmup series.
 
 Combines Chuck Norris and Flickr APIs for random Chuck Norris Glory.
